@@ -127,7 +127,7 @@ Hope this might be useful to someone! :-)
  
   #### [P8 - Kidnapped Vehicle](project_8_kidnapped_vehicle)
  - **Summary:** Your robot has been kidnapped and transported to a new location! Luckily it has a map of this location, a (noisy) GPS estimate of its initial location, and lots of (noisy) sensor and control data. In this project you will implement a 2 dimensional particle filter in C++. Your particle filter will be given a map and some initial localization information (analogous to what a GPS would provide). At each time step your filter will also get observation and control data.
- - **Keywords:** C++, Particle Filter
+ - **Keywords:** C++, Particle Filter 
  
  #### [P9 - PID Control](project_9_PID_control)
  - **Summary:** Implement a PID controller for keeping the car on track by appropriately adjusting the steering angle.
