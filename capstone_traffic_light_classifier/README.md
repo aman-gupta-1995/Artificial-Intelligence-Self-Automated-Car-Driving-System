@@ -9,7 +9,7 @@ Simple traffic light classifier to be integrated in the capstone project.
 ### Simulator dataset
 **Number of frames:** 1324 frames
 
-**Resolution:** 800x600 pixel
+**Resolution:** 800x600 pixel 
 
 **Classes:** {none, red, yellow, green}
 
