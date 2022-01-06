@@ -31,7 +31,7 @@ public:
     JointAlignment = bool(DstIsAligned) && bool(SrcIsAligned) ? Aligned : Unaligned
   };
 
-private:
+private: 
   enum {
     InnerSize = int(Derived::IsVectorAtCompileTime) ? int(Derived::SizeAtCompileTime)
               : int(Derived::Flags)&RowMajorBit ? int(Derived::ColsAtCompileTime)
