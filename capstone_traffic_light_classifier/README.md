@@ -19,7 +19,7 @@ Simple traffic light classifier to be integrated in the capstone project.
 
 ### Udacity circuit dataset
 **Number of frames:** 1151 frames
-
+ 
 **Resolution:** 800x600 pixel
 
 **Classes:** {none, red, green}
