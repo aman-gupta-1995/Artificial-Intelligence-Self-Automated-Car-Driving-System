@@ -11,7 +11,7 @@
 
 #ifndef EIGEN_ASSIGN_H
 #define EIGEN_ASSIGN_H
-
+ 
 namespace Eigen {
 
 namespace internal {
