@@ -14,7 +14,7 @@ Simple traffic light classifier to be integrated in the capstone project.
 **Classes:** {none, red, yellow, green}
 
 **Samples:**
-![simulator_dataset](img/simulator_examples.png)
+![simulator_dataset](img/simulator_examples.png) 
 
 
 ### Udacity circuit dataset
