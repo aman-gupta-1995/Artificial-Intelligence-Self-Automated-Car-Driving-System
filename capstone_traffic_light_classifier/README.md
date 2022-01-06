@@ -31,7 +31,7 @@ Simple traffic light classifier to be integrated in the capstone project.
 
 The network has been from the dataset obtained merging the two dataset above.
 
-### Downloading the data
+### Downloading the data 
 
 All three datasets are available in this [shared folder](https://drive.google.com/open?id=0Bx9YaGcDPu3XSlMxeHlPZEIyRzQ).
 
