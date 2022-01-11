@@ -3,7 +3,7 @@
 Simple traffic light classifier to be integrated in the capstone project.
 
 ---
- 
+
 ## Dataset
 
 ### Simulator dataset
