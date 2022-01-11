@@ -31,7 +31,7 @@ namespace internal {
   * \param MatrixType the type of the matrix of which to compute the LDL^T Cholesky decomposition
   * \param UpLo the triangular part that will be used for the decompositon: Lower (default) or Upper.
   *             The other triangular part won't be read.
-  *
+  * 
   * Perform a robust Cholesky decomposition of a positive semidefinite or negative semidefinite
   * matrix \f$ A \f$ such that \f$ A =  P^TLDL^*P \f$, where P is a permutation matrix, L
   * is lower triangular with a unit diagonal and D is a diagonal matrix.
