@@ -1,5 +1,5 @@
 # Traffic Light Classifier
-
+ 
 Simple traffic light classifier to be integrated in the capstone project.
 
 ---
