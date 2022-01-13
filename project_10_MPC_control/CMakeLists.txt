@@ -2,7 +2,7 @@ project(MPC)
 
 cmake_minimum_required (VERSION 3.5)
 
-# -g allows for gdb debugging
+# -g allows for gdb debugging 
 # turn on -03 for best performance
 add_definitions(-std=c++11 -O3)
 
