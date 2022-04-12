@@ -5,7 +5,7 @@ Dependency form helper and unittests have been removed due to compatibility issu
 
 Once training is done, code will be moved to `main.py`
 """ 
-from __future__ import division
+from __future__ import division 
 import tensorflow as tf
 import warnings
 from distutils.version import LooseVersion
