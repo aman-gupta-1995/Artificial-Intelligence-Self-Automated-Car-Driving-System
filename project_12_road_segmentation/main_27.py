@@ -4,7 +4,7 @@ Dirty and running file to use Python2.7
 Dependency form helper and unittests have been removed due to compatibility issues.
 
 Once training is done, code will be moved to `main.py`
-""" 
+"""  
 from __future__ import division  
 import tensorflow as tf
 import warnings 
