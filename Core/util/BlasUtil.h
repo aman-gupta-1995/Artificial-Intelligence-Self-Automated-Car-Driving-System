@@ -28,7 +28,7 @@ template<typename Scalar, typename Index, int Pack1, int Pack2, int StorageOrder
 struct gemm_pack_lhs;
 
 template<
-  typename Index,
+  typename Index, 
   typename LhsScalar, int LhsStorageOrder, bool ConjugateLhs,
   typename RhsScalar, int RhsStorageOrder, bool ConjugateRhs,
   int ResStorageOrder>
