@@ -7,7 +7,7 @@
 // Public License v. 2.0. If a copy of the MPL was not distributed
 // with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-#ifndef EIGEN_BLASUTIL_H
+#ifndef EIGEN_BLASUTIL_H 
 #define EIGEN_BLASUTIL_H
 
 // This file contains many lightweight helper classes used to
