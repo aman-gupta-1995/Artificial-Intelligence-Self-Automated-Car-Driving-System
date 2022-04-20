@@ -4,7 +4,7 @@ from computer_vision_utils.stitching import stitch_together
 from functions_feat_extraction import image_to_features
 import matplotlib.pyplot as plt
 
-
+ 
 def draw_labeled_bounding_boxes(img, labeled_frame, num_objects):
     """
     Starting from labeled regions, draw enclosing rectangles in the original color frame.
