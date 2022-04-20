@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import glob
 import matplotlib.pyplot as plt
-import os.path as path
+import os.path as path 
 import pickle 
  
 
