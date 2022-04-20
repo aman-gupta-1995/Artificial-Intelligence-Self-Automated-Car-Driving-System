@@ -4,7 +4,7 @@ import cv2
 
 class Line:
     """ 
-    A Line is defined from two points (x1, y1) and (x2, y2) as follows:
+    A Line is defined from two points (x1, y1) and (x2, y2) as follows: 
     y - y1 = (y2 - y1) / (x2 - x1) * (x - x1)
     Each line has its own slope and intercept (bias).
     """ 
