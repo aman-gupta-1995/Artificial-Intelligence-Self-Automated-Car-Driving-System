@@ -32,7 +32,7 @@ def lazy_calibration(func):
 def calibrate_camera(calib_images_dir, verbose=False):
     """
     Calibrate the camera given a directory containing calibration chessboards.
-
+ 
     :param calib_images_dir: directory containing chessboard frames
     :param verbose: if True, draw and show chessboard corners
     :return: calibration parameters
