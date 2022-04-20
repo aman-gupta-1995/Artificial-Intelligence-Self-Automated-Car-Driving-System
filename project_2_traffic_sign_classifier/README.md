@@ -4,7 +4,7 @@ The goal of this project was  to build a **CNN** in [TensorFlow](https://www.ten
 
 Main steps covered in this lab are:  
 - dataset exploration and visualization
-- data augmentation  
+- data augmentation   
 - deep network design and training   
 - visualization of the certainty/uncertainty of the model's predictions 
 
