@@ -7,7 +7,7 @@ class Line:
     A Line is defined from two points (x1, y1) and (x2, y2) as follows:
     y - y1 = (y2 - y1) / (x2 - x1) * (x - x1)
     Each line has its own slope and intercept (bias).
-    """
+    """ 
     def __init__(self, x1, y1, x2, y2): 
 
         self.x1 = np.float32(x1)
