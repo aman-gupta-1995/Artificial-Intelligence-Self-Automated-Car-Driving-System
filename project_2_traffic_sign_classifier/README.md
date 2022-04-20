@@ -2,7 +2,7 @@
 
 The goal of this project was  to build a **CNN** in [TensorFlow](https://www.tensorflow.org/) to **classify traffic sign images** from the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset).
 
-Main steps covered in this lab are: 
+Main steps covered in this lab are:  
 - dataset exploration and visualization
 - data augmentation  
 - deep network design and training   
