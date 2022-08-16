@@ -93,7 +93,7 @@ Hope this might be useful to someone! :-)
 ### Capstone
 - [**Traffic light classifier:**](https://github.com/ndrplz/self-driving-car/tree/master/capstone_traffic_light_classifier) Simple traffic light classifier to be integrated in the capstone project.
 ![simulator_dataset](capstone_traffic_light_classifier/img/simulator_examples.png)
-
+ 
 --- 
 ## Table of Contents
 
