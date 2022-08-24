@@ -6,7 +6,7 @@ Hope this might be useful to someone! :-)
 
 ## Overview
 
-### Projects 
+### Projects
 
 <table style="width:100%">
   <tr>
