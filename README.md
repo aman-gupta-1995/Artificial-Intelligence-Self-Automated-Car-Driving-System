@@ -28,7 +28,7 @@ Hope this might be useful to someone! :-)
            <br>P3: Behavioral Cloning
            <br><a href="./project_3_behavioral_cloning" name="p3_code">(code)</a>
         </p>
-    </th>
+    </th> 
         <th><p align="center">
            <a href="https://www.youtube.com/watch?v=g5BhDtoheE4"><img src="./project_4_advanced_lane_finding/img/overview.gif"                         alt="Overview" width="60%" height="60%"></a>
            <br>P4: Adv. Lane Finding
