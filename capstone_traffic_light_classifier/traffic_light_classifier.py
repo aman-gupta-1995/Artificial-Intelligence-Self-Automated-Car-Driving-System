@@ -5,7 +5,7 @@ import tensorflow as tf
 EPS  = np.finfo('float32').eps
  
 
-class TrafficLightClassifier: 
+class TrafficLightClassifier:
 
     def __init__(self, input_shape, learning_rate, verbose=True):
 
