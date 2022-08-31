@@ -4,7 +4,7 @@
  target_link_libraries (uWS LINK_PUBLIC ${OPENSSL_CRYPTO_LIBRARY}) 
  target_link_libraries (uWS LINK_PUBLIC ${ZLIB_LIBRARY}) 
  
--if (UNIX)
+-if (UNIX) 
 +if(${CMAKE_SYSTEM_NAME} MATCHES "Linux") 
  target_link_libraries (uWS LINK_PUBLIC pthread)
  install (TARGETS uWS DESTINATION /usr/lib64)
