@@ -1,6 +1,6 @@
 import numpy as np
 import tensorflow as tf
-
+ 
 
 EPS  = np.finfo('float32').eps
 
