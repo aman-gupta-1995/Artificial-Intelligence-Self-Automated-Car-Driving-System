@@ -2,7 +2,7 @@
 +++ CMakeListsnew.txt	2017-03-23 20:57:33.000000000 +0900
 @@ -32,10 +32,16 @@
  target_link_libraries (uWS LINK_PUBLIC ${OPENSSL_CRYPTO_LIBRARY}) 
- target_link_libraries (uWS LINK_PUBLIC ${ZLIB_LIBRARY})
+ target_link_libraries (uWS LINK_PUBLIC ${ZLIB_LIBRARY}) 
  
 -if (UNIX)
 +if(${CMAKE_SYSTEM_NAME} MATCHES "Linux") 
