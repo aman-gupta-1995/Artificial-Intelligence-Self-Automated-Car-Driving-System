@@ -383,7 +383,7 @@ class CholmodBase : internal::noncopyable
 template<typename _MatrixType, int _UpLo = Lower>
 class CholmodSimplicialLLT : public CholmodBase<_MatrixType, _UpLo, CholmodSimplicialLLT<_MatrixType, _UpLo> >
 {
-    typedef CholmodBase<_MatrixType, _UpLo, CholmodSimplicialLLT> Base;
+    typedef CholmodBase<_MatrixType, _UpLo, CholmodSimplicialLLT> Base; 
     using Base::m_cholmod;
     
   public:
