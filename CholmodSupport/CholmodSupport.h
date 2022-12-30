@@ -360,7 +360,7 @@ class CholmodBase : internal::noncopyable
     bool m_isInitialized;
     int m_factorizationIsOk;
     int m_analysisIsOk;
-};
+}; 
 
 /** \ingroup CholmodSupport_Module
   * \class CholmodSimplicialLLT
