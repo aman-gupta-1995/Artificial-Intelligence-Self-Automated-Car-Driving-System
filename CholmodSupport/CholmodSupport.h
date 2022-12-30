@@ -91,7 +91,7 @@ cholmod_sparse viewAsCholmod(SparseMatrix<_Scalar,_Options,_Index>& mat)
   internal::cholmod_configure_matrix<_Scalar>(res);
   
   res.stype = 0;
-  
+   
   return res;
 }
 
