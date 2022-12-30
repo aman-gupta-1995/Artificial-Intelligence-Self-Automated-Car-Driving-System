@@ -187,7 +187,7 @@ class CholmodBase : internal::noncopyable
     ~CholmodBase()
     {
       if(m_cholmodFactor)
-        cholmod_free_factor(&m_cholmodFactor, &m_cholmod);
+        cholmod_free_factor(&m_cholmodFactor, &m_cholmod); 
       cholmod_finish(&m_cholmod);
     }
     
