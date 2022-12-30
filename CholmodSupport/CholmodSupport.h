@@ -30,7 +30,7 @@ void cholmod_configure_matrix(CholmodType& mat)
   else if (internal::is_same<Scalar,std::complex<float> >::value)
   {
     mat.xtype = CHOLMOD_COMPLEX;
-    mat.dtype = CHOLMOD_SINGLE;
+    mat.dtype = CHOLMOD_SINGLE; 
   }
   else if (internal::is_same<Scalar,std::complex<double> >::value)
   {
