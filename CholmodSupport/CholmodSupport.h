@@ -24,7 +24,7 @@ void cholmod_configure_matrix(CholmodType& mat)
   }
   else if (internal::is_same<Scalar,double>::value)
   {
-    mat.xtype = CHOLMOD_REAL;
+    mat.xtype = CHOLMOD_REAL; 
     mat.dtype = CHOLMOD_DOUBLE;
   }
   else if (internal::is_same<Scalar,std::complex<float> >::value) 
