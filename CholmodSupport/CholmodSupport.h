@@ -84,7 +84,7 @@ cholmod_sparse viewAsCholmod(SparseMatrix<_Scalar,_Options,_Index>& mat)
   }
   else
   {
-    eigen_assert(false && "Index type not supported yet");
+    eigen_assert(false && "Index type not supported yet"); 
   }
 
   // setup res.xtype
