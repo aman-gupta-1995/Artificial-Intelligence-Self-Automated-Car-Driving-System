@@ -155,7 +155,7 @@ enum CholmodMode {
   * \class CholmodBase
   * \brief The base class for the direct Cholesky factorization of Cholmod
   * \sa class CholmodSupernodalLLT, class CholmodSimplicialLDLT, class CholmodSimplicialLLT
-  */
+  */ 
 template<typename _MatrixType, int _UpLo, typename Derived>
 class CholmodBase : internal::noncopyable
 {
